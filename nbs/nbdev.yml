@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://Snofus.github.io/nbdev"
+  description: "Trying out the nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/Snofus/nbdev"
